@@ -36,6 +36,7 @@ sudo tail -f /var/log/auth.log
 ```
 #### OUTPUT:
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/7ad29713-acc2-4873-b911-874dc98f3bd0" />
+
 ### SSH Brute Force Attack (Kali Linux)
 
 Run Hydra to perform an SSH brute-force attack:
